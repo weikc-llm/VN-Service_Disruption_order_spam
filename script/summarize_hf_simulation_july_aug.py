@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # 1. Define File Directory Path & Excel File Names
-data_dir = "/mnt/c/Users/wei.kc/Desktop/Adhoc/03 Sept 2026/data/VN_order(July-Aug)/Compiled_Output/"
+data_dir = "/mnt/c/Users/wei.kc/Desktop/Adhoc/03 Sept 2026/data"
 
 july_file_path = os.path.join(data_dir, "result_20260921_192957(VN-July-simulation_latest).xlsx")
 aug_file_path = os.path.join(data_dir, "result_20260921_164639(VN-Aug-simulation_latest).xlsx")

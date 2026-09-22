@@ -11,12 +11,12 @@ compiled_output_dir = Path(
 os.makedirs(compiled_output_dir, exist_ok=True)
 
 # 2. Input and Output File Paths
-input_file = compiled_output_dir / "VN_High_Frequency_User_Summary_July_Aug_2026.xlsx"
+input_file = compiled_output_dir / "Simulation_User_Summary.xlsx"
 output_chart = compiled_output_dir / "latest_simulation_hf_user_share.png"
 
 # 3. Read exact target sheets
-df_july = pd.read_excel(input_file, sheet_name="account to check (July)")
-df_aug = pd.read_excel(input_file, sheet_name="account to check (Aug)")
+df_july = pd.read_excel(input_file, sheet_name="user-summary(July2026)")
+df_aug = pd.read_excel(input_file, sheet_name="user-summary(Aug2026)")
 
 
 # Helper function to convert percentage values cleanly to floats

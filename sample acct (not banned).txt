@@ -2,6 +2,11 @@ sample high-frequency VN account (not ban yet)
 42459298
 42381392
 
+check for rolling count logic
+8200826 (Aug-simulation sample)
+42705635 (July-simulation sample)
+
+
 
 (linkage related)
 42458992

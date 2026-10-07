@@ -11,3 +11,44 @@ check for rolling count logic
 (linkage related)
 42458992
 16372934
+
+
+todo
+
+banned status when (date)
+user 41  check corp
+sept simulate if got acct cont + linkage + corp+ banned date?
+
+what's the accuracy rate of that? 
+What's the account age for those 41 accounts?
+What's the order completion history for those 41 accounts?
+
+User capture (simulated strat)
+July-27 
+Aug-26
+Sept-15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

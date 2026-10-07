@@ -11,3 +11,13 @@ account_banningflow.png
 account_banningflow2.png
 
 VN_order\(July-Aug\)/
+user_ban_info
+
+# Ignore everything inside the 'september strat simulation' directory
+/03 Sept 2026/data/september strat simulation/*
+
+# Un-ignore the 'latest(for stakeholder)' folder itself
+!/03 Sept 2026/data/september strat simulation/latest(for stakeholder)/
+
+# Un-ignore everything inside the 'latest(for stakeholder)' folder
+!/03 Sept 2026/data/september strat simulation/latest(for stakeholder)/**
